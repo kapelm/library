@@ -10,5 +10,3 @@ urlpatterns = [
       url(r'^author/(?P<pk>\d+)$', views.AuthorDetailView.as_view(), name='author_detail'),
 
 ]
-
-вапрыварыр
